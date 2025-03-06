@@ -7,6 +7,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/cadenmbond/SFML-Graphics/master/Game%20Window.png" alt="Game Window Example" width="60%" />
 </p>
+<h3 align="center">View Video Example</h3>
+<p align="center" target="_blank">https://www.youtube.com/watch?v=KGnONpyrNos</p>
 
 ---
 
