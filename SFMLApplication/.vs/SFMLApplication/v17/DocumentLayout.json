@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\SFMLApplication\\SFMLApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82B88E7-9856-4415-8BDC-EA42F0618C9A}|SFMLApplication\\SFMLApplication.vcxproj|C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82B88E7-9856-4415-8BDC-EA42F0618C9A}|SFMLApplication\\SFMLApplication.vcxproj|solutionrelative:SFMLApplication\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82B88E7-9856-4415-8BDC-EA42F0618C9A}|SFMLApplication\\SFMLApplication.vcxproj|C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameInit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82B88E7-9856-4415-8BDC-EA42F0618C9A}|SFMLApplication\\SFMLApplication.vcxproj|solutionrelative:SFMLApplication\\GameInit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82B88E7-9856-4415-8BDC-EA42F0618C9A}|SFMLApplication\\SFMLApplication.vcxproj|C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82B88E7-9856-4415-8BDC-EA42F0618C9A}|SFMLApplication\\SFMLApplication.vcxproj|solutionrelative:SFMLApplication\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82B88E7-9856-4415-8BDC-EA42F0618C9A}|SFMLApplication\\SFMLApplication.vcxproj|C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82B88E7-9856-4415-8BDC-EA42F0618C9A}|SFMLApplication\\SFMLApplication.vcxproj|solutionrelative:SFMLApplication\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82B88E7-9856-4415-8BDC-EA42F0618C9A}|SFMLApplication\\SFMLApplication.vcxproj|C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameInit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82B88E7-9856-4415-8BDC-EA42F0618C9A}|SFMLApplication\\SFMLApplication.vcxproj|solutionrelative:SFMLApplication\\GameInit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\main.cpp",
+              "RelativeDocumentMoniker": "SFMLApplication\\main.cpp",
+              "ToolTip": "C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\main.cpp",
+              "RelativeToolTip": "SFMLApplication\\main.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T02:37:48.986Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameInit.h",
+              "DocumentMoniker": "C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameInit.h",
+              "RelativeDocumentMoniker": "SFMLApplication\\GameInit.h",
+              "ToolTip": "C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameInit.h",
+              "RelativeToolTip": "SFMLApplication\\GameInit.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T19:58:09.719Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameInit.cpp",
+              "DocumentMoniker": "C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameInit.cpp",
+              "RelativeDocumentMoniker": "SFMLApplication\\GameInit.cpp",
+              "ToolTip": "C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameInit.cpp",
+              "RelativeToolTip": "SFMLApplication\\GameInit.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T20:01:27.775Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameObject.cpp",
+              "RelativeDocumentMoniker": "SFMLApplication\\GameObject.cpp",
+              "ToolTip": "C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameObject.cpp",
+              "RelativeToolTip": "SFMLApplication\\GameObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T21:18:21.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameObject.h",
+              "RelativeDocumentMoniker": "SFMLApplication\\GameObject.h",
+              "ToolTip": "C:\\Code\\SFMLApplication\\SFMLApplication\\SFMLApplication\\GameObject.h",
+              "RelativeToolTip": "SFMLApplication\\GameObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T20:25:30.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
