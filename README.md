@@ -56,3 +56,9 @@ This file implements the methods from `GameInit.h`. It includes:
 - **init_objects()**: Initializes the game objects (e.g., player, enemy, etc.) and stores them in a vector.
 - **create_object()**: Helper method to create objects with specific attributes (size, position, etc.) and add them to the object vector.
 - **render_scene()**: Draws all game objects to the screen by calling their `draw()` methods.
+
+### `Installation instructions`
+
+- Clone the Repository
+- Open the Solution in VS 2022
+- Build and Run
